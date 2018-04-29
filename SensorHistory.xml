@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+<Sensor>
+<id>6-4</id>
+<loc>6</loc>
+<temp>93.0</temp>
+<battery>14</battery>
+<smoke>9</smoke>
+<co2>9</co2>
+<resFlag>true</resFlag>
+<emeFlag>true</emeFlag>
+<date>2018/04/14 05:27:25</date>
+</Sensor>
+</data>
